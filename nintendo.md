@@ -1,0 +1,4 @@
+
+## Super Nintendo
+
+La **Super Nintendo Entertainment System**, conocida popularmente como la Super Nintendo, también llamada la Super Famicom (japonés: スーパーファミコン, Hepburn: Sūpā Famikon) en Japón5​ (abreviada SFC) y la Hyundai Super Comboy (hangul: 현대 슈퍼 컴보이, romanización revisada: Hyeondae Syupeo Keomboi) en Corea del Sur6​ (también nombrada oficialmente de forma abreviada como la Super NES o SNES en América7​ y como la Super Nintendo en Europa8​), es la segunda videoconsola de sobremesa de Nintendo y la sucesora de Nintendo Entertainment System (NES) en América y Europa. Mantuvo una gran rivalidad en todo el mundo con la Sega Mega Drive (o Sega Genesis) durante la era de 16 bits. Fue descontinuada en el año 1999 (2003 en Japón)9​ y años más tarde, fue relanzada virtualmente en la Wii y Wii U.
