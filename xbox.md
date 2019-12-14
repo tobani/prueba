@@ -1,5 +1,4 @@
 ## XBOX ONE
-_Xbox One_ es la _tercera_ videoconsola de sobremesa de la marca Xbox, producida por Microsoft. Forma parte de las videoconsolas de octava generación, fue presentada por Microsoft el 21 de mayo de 2013.5​ Es la sucesora de la Xbox 360 y la predecesora de la Xbox Series X actualmente compite con PlayStation 4 de Sony y Nintendo Switch de Nintendo. Su salida a la venta fue el 22 de noviembre de 20136​ a un precio de 499 dólares.7​
-
-**FIRMWARE**
+**Xbox One** es la _tercera_ videoconsola de sobremesa de la marca Xbox, producida por Microsoft. Forma parte de las videoconsolas de octava generación, fue presentada por Microsoft el 21 de mayo de 2013.5​ Es la sucesora de la Xbox 360 y la predecesora de la Xbox Series X actualmente compite con PlayStation 4 de Sony y Nintendo Switch de Nintendo. Su salida a la venta fue el 22 de noviembre de 20136​ a un precio de 499 dólares.7​
+_FIRMWARE_
 El Firmware actual de la consola es el _10.0.17133.2020 (rs4_release_xbox_dev_1804.180418-1415)_, donde hay más opciones de salida de vídeo, hay un nuevo nivel de interactividad de Mixer, se pueden compartir las capturas en Twitter, hay torneos abiertos, se pueden poner los temas en un horario, hay mejoras al Narrador, mejoras en Edge, hay más audio inmersivo y hay un filtrado avanzado para propietarios de clubes.
